@@ -1,0 +1,52 @@
+.harcuy-ror {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 80px;
+}
+
+.judul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-content {
+    width: 50%;
+    height: 50%;
+    border-radius: 50px;
+}
+
+.navelement {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: gray;
+    color: rgb(255, 255, 255);
+    transition-duration: 1s;
+    width: 100px;
+}
+.navelement:hover {
+    background-color: lightsteelblue;
+    color: blue;
+    cursor: pointer;
+    transform: translateX(20px);
+}
+
+.navelement-cuy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navelement1 {
+    text-decoration: none;
+}
+
+.navelement2 {
+    text-decoration: none;
+}
+
+.navelement3 {
+    text-decoration: none;
+}
